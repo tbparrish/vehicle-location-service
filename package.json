@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.2",
-    "rm-node-ms": "file:../../../rm-node-ms"
+    "rm-node-ms": "git@github.com:tbparrish/rm-node-ms.git"
   }
 }
