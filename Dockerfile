@@ -1,0 +1,1 @@
+FROM dispatcher/node
